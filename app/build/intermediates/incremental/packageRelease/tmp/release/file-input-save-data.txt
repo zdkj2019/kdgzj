@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Jan 17 15:37:14 CST 2019
+1.base=D\:\\application\\Android\\workspace\\kdgzj\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=lib/armeabi/liblocSDK3.so
+0.set=NATIVE_RESOURCE
+0.base=D\:\\application\\Android\\workspace\\kdgzj\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
+1.path=classes.dex
